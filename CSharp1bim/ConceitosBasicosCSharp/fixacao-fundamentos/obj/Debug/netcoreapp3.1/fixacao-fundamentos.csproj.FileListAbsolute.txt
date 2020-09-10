@@ -1,0 +1,13 @@
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.AssemblyInfoInputs.cache
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.AssemblyInfo.cs
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.exe
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.deps.json
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.runtimeconfig.json
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.runtimeconfig.dev.json
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.dll
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\bin\Debug\netcoreapp3.1\fixacao-fundamentos.pdb
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.csprojAssemblyReference.cache
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.dll
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.pdb
+C:\Users\55249\Desktop\CSharp1bim\ConceitosBasicosCSharp\fixacao-fundamentos\obj\Debug\netcoreapp3.1\fixacao-fundamentos.genruntimeconfig.cache
